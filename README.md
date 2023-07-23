@@ -8,7 +8,7 @@ While I'm studying I develop applications on C#, making web-applications and lea
 * 🌐 HTML, CSS, JavaScript, PHP
 * 📙 MySQL (phpMyAdmin)
 
-## 🛠 Software
+## 🛠 My favorite software and tools
 * Visual Studio, Open Server, Android Studio
 * VMware Workstation, HxD, Detect It Easy, dnSpy
 * Postman, Fiddler
